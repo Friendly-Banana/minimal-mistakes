@@ -1,3 +1,9 @@
+> [!NOTE]  
+> The original author hasn't been active for a long time so I forked the theme and merged some Pull Requests. I also fixed
+the Sass deprecation warnings.
+If you want to use this version, use the following line in your Gemfile:  
+`gem "minimal-mistakes-jekyll", :github => 'Friendly-Banana/minimal-mistakes'`
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
